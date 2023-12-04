@@ -1,7 +1,8 @@
 {
-  "name": "opencv",
+  "name": "@markdelafleur/opencv",
   "version": "1.0.0",
   "description": "ver 4.8.0 build with drawMarker Included",
+  "type": "module",
   "main": "opencv.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,8 +19,6 @@
   "bugs": {
     "url": "https://github.com/MarkDeLaFleur/opencv-js/issues"
   },
-  "homepage": "https://github.com/MarkDeLaFleur/opencv-js#readme",
-  "dependencies": {
-    "opencv": "github:MarkDeLaFleur/opencv-js"
-  }
+  "homepage": "https://github.com/MarkDeLaFleur/opencv-js#readme"
+  
 }
