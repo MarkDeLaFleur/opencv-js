@@ -1,0 +1,22 @@
+{
+  "name": "opencv",
+  "version": "1.0.0",
+  "description": "ver 4.8.0 build with drawMarker Included",
+  "main": "opencv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkDeLaFleur/opencv-js.git"
+  },
+  "keywords": [
+    "opencv"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkDeLaFleur/opencv-js/issues"
+  },
+  "homepage": "https://github.com/MarkDeLaFleur/opencv-js#readme"
+}
