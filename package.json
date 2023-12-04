@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/MarkDeLaFleur/opencv-js/issues"
   },
-  "homepage": "https://github.com/MarkDeLaFleur/opencv-js#readme"
+  "homepage": "https://github.com/MarkDeLaFleur/opencv-js#readme",
+  "dependencies": {
+    "opencv": "github:MarkDeLaFleur/opencv-js"
+  }
 }
