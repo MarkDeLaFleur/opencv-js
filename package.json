@@ -2,8 +2,12 @@
   "name": "@markdelafleur/opencv",
   "version": "1.0.0",
   "description": "ver 4.8.0 build with drawMarker Included",
-  "type": "module",
-  "main": "opencv.js",
+  "main": "dist/opencv.js",
+  "types": "dist/src/index.d.ts",
+  "files": [
+    "dist/",
+    "src/"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
